@@ -5,7 +5,7 @@ import 'package:flutter/widgets.dart';
 class PDFPage extends StatefulWidget {
   final String imgPath;
 
-  const PDFPage({Key key, this.imgPath});
+  const PDFPage(this.imgPath);
 
   @override
   _PDFPageState createState() => _PDFPageState();
