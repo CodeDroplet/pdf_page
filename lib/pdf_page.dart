@@ -16,3 +16,5 @@
 library pdf_page;
 
 export 'src/page.dart' show PDFPage;
+export 'src/document.dart' show PDFDocument;
+export 'src/Viewer.dart' show PDFViewer;
